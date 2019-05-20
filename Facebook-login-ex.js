@@ -4,7 +4,7 @@ var database=[{
 }];
 
 var newsfeed=[{
-	username:"bob",
+	username:"bobbob",
 	timeline:"so tired",
 },
 {
